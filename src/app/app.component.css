@@ -1,0 +1,86 @@
+.container-fluid{
+    width: 1280px;
+    height: 100vh;
+    background-image: url("C:\Users\Ruthvika Muchala\Documents\WEB DESIGN\Fashion Website\project1\src\assets\i.png");
+    background-size: cover;
+    background-position: center;
+    position:relative;
+    background-attachment: fixed;
+}
+
+.logo{
+    position:relative;
+    left: 10px;
+    top: 40px;
+}
+.logo a{
+    font-family: poppins;
+    font-weight: 700;
+    color:rgb(14, 11, 1);
+    font-size: 2rem;
+    text-shadow: 2px 2px 30px rgba(0,0,0,0.2);
+    letter-spacing: 1px;
+}
+.logo font{
+    color: #7a72ff;
+}
+.list-items ul{
+    list-style: none;
+}
+.list-items li{
+    border: 10px solid white;
+    width: 170px;
+    height: 40px;
+    float: left;
+    text-align: center;
+    line-height:1px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.list-items a{
+    text-decoration:none;
+    font-weight: bold;
+    color: black;
+    display: block;
+    font-size: 17px;
+    transition: 0.4s;
+}
+.list-items a:hover {
+    color: #7a72ff;
+  }
+  .side-box{
+    position:absolute;
+    right: 50px;
+    top: 41px;
+    width: 170px;
+    height: 45px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10% 10% 10% 10%/50% 50% 50% 50%;
+    box-shadow: 2px 2px 30px rgba(157, 148, 231, 0.2);
+    border:1px solid rgba(27, 13, 154, 0.2);
+    z-index: 1;
+}
+.search input{
+    width:55px;
+    height: 30px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: #1f1f1f;
+    font-size:1rem;
+    padding: 1px 2px;
+}
+.search input::placeholder{
+    color: #1d1d1d;
+    font-weight: 400;
+    font-size: 0.8rem;
+    font-family: poppins;
+}
+.nav-btns{
+    margin-left: 120%;
+    padding-bottom:40%;
+
+}
