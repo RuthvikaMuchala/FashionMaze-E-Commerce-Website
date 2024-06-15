@@ -1,6 +1,11 @@
-# Project1
+# FashionMaze - Shop for Girls !!!
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+
+### Project Demo
+
+https://github.com/RuthvikaMuchala/FashionMaze-E-Commerce-Website/assets/92968569/47403ad2-f87f-4525-b4d0-dda8423ffe11
+
+This project was developed as a part of curriculum requirement in the first year of study.
 
 ## Development server
 
